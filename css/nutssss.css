@@ -45,7 +45,8 @@ body {
 .headPhoto {
     width: 8rem;
     height: 8rem;
-    background: url("https://zx.js.cool/avatar2.webp") no-repeat;
+    background: url("https://tse2-mm.cn.bing.net/th/id/OIP-C.99SVIUobuz48ltZ0N96XDwAAAA?w=196&h=196&c=7&r=0&o=5&dpr=2&pid=1.7") no-repeat;
+    /*background: url("https://zx.js.cool/avatar2.webp") no-repeat;*/
     background-size: cover;
     border-radius: 50%;
     position: relative;
