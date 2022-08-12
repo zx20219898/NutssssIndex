@@ -9,8 +9,8 @@ html, body {
 }
 
 body {
-    /*background-image: linear-gradient(to left, rgba(255, 0, 149, 0.2), rgba(0, 247, 255, 0.2)), url(../img/bg.webp);*/
-    background-image: linear-gradient(to left, rgba(255, 0, 149, 0.2), rgba(0, 247, 255, 0.2)), url(http://cdn.xiaoyou66.com/theme/background.jpg);
+    background-image: linear-gradient(to left, rgba(255, 0, 149, 0.2), rgba(0, 247, 255, 0.2)), url(../img/bg.webp);
+    /*background-image: linear-gradient(to left, rgba(255, 0, 149, 0.2), rgba(0, 247, 255, 0.2)), url(http://cdn.xiaoyou66.com/theme/background.jpg);*/
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -40,6 +40,14 @@ body {
     height: 26rem;
     margin: 95px 0 0 -5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+}
+
+.cover{ /*夜间模式下遮罩样式（应设置为黑色半透明）*/
+    position:fixed;
+    top: 0px;
+    left: 0px;
+    outline:5000px solid rgba(0, 0, 0, 0.3);
+    z-index: 99999;
 }
 
 .headPhoto {
