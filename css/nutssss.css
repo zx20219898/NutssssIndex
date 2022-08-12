@@ -9,8 +9,12 @@ html, body {
 }
 
 body {
+    /*background-image: linear-gradient(to left, rgba(255, 0, 149, 0.2), rgba(0, 247, 255, 0.2)), url(../img/bg.jpg);*/
     /*background-image: linear-gradient(to left, rgba(255, 0, 149, 0.2), rgba(0, 247, 255, 0.2)), url(../img/bg.webp);*/
-    background-image: linear-gradient(to left, rgba(255, 0, 149, 0.2), rgba(0, 247, 255, 0.2)), url(https://img-blog.csdnimg.cn/268133b0628c4855acba323b10f52f79.webp);
+    /*csdn - bg1*/
+    /*background-image: linear-gradient(to left, rgba(255, 0, 149, 0.2), rgba(0, 247, 255, 0.2)), url(https://img-blog.csdnimg.cn/268133b0628c4855acba323b10f52f79.webp);*/
+    /*csdn - bg2*/
+    background-image: linear-gradient(to left, rgba(255, 0, 149, 0.2), rgba(0, 247, 255, 0.2)), url(https://img-blog.csdnimg.cn/1738781b4bcf4e0a9479b2e4ee0be548.webp#pic_center);
     /*background-image: linear-gradient(to left, rgba(255, 0, 149, 0.2), rgba(0, 247, 255, 0.2)), url(http://cdn.xiaoyou66.com/theme/background.jpg);*/
     background-repeat: no-repeat;
     background-attachment: fixed;
