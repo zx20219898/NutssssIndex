@@ -9,9 +9,9 @@ html, body {
 }
 
 body {
-    background-image: linear-gradient(to left, rgba(255, 0, 149, 0.2), rgba(0, 247, 255, 0.2)), url("../img/bg.jpg");
+    /*background-image: linear-gradient(to left, rgba(255, 0, 149, 0.2), rgba(0, 247, 255, 0.2)), url("../img/bg.jpg");*/
+    background-image: linear-gradient(to left, rgba(255, 0, 149, 0.2), rgba(0, 247, 255, 0.2)), url(https://s2.loli.net/2022/08/12/kUJzcePLaSlRKt8.png);
     /*background-image: linear-gradient(to left, rgba(255, 0, 149, 0.2), rgba(0, 247, 255, 0.2)), url(https://www.dmoe.cc/random.php);*/
-    /*background-image: linear-gradient(to left, rgba(255, 0, 149, 0.2), rgba(0, 247, 255, 0.2)), url(https://pic.netbian.com/uploads/allimg/210608/225842-162316432292a4.jpg);*/
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
