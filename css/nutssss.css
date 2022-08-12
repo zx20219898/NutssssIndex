@@ -9,10 +9,7 @@ html, body {
 }
 
 body {
-    /*background-image: linear-gradient(to left, rgba(255, 0, 149, 0.2), rgba(0, 247, 255, 0.2)), url("../img/bg.jpg");*/
-    background-image: linear-gradient(to left, rgba(255, 0, 149, 0.2), rgba(0, 247, 255, 0.2)), url(http://101.43.123.47:4000/bg.webp);
-    /*background-image: linear-gradient(to left, rgba(255, 0, 149, 0.2), rgba(0, 247, 255, 0.2)), url(https://s2.loli.net/2022/08/12/kUJzcePLaSlRKt8.png);*/
-    /*background-image: linear-gradient(to left, rgba(255, 0, 149, 0.2), rgba(0, 247, 255, 0.2)), url(https://www.dmoe.cc/random.php);*/
+    background-image: linear-gradient(to left, rgba(255, 0, 149, 0.2), rgba(0, 247, 255, 0.2)), url(http://cdn.xiaoyou66.com/theme/background.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
