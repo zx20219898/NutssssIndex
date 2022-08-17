@@ -13,6 +13,15 @@
     <link rel="stylesheet" type="text/css" href="./css/nutssss.css">
     <link rel="icon" href="./favicon.ico">
 
+    <style>
+        .test {
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -o-user-select: none;
+            user-select: none;
+        }
+    </style>
+
     <style type="text/css">
         /* 滚动条 */
         ::-webkit-scrollbar-thumb {
@@ -396,6 +405,9 @@
 
 
 </script>
+
+<div class="test" onselectstart="return false;" unselectable="on"></div>
+
 
 </body>
 
