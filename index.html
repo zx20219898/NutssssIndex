@@ -21,6 +21,7 @@
             user-select: none;
         }
     </style>
+    <div class="test" onselectstart="return false;" unselectable="on"></div>
 
     <style type="text/css">
         /* 滚动条 */
@@ -406,6 +407,14 @@
 
 </script>
 
+<style>
+    .test {
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -o-user-select: none;
+        user-select: none;
+    }
+</style>
 <div class="test" onselectstart="return false;" unselectable="on"></div>
 
 
